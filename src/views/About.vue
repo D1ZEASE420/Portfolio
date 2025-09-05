@@ -25,7 +25,7 @@
       <div class="mt-10">
         <h3 class="text-4xl font-bold text-white mb-4">Self-Analysis – D1ZEASE</h3>
         <p class="text-gray-400 leading-relaxed mb-6">
-          I am an experienced web designer, developer, and game developer with a strong background in IT and extensive experience in various projects. Currently, I am studying software development in vocational school as a second-year student. I have been involved in development and programming for six years, which has provided me with comprehensive skills and knowledge in this field.
+          I am an experienced web designer, developer, and game developer with a background in IT and experience in various projects. Currently, I am studying software development in vocational school as a third-year student. I have been involved in development and programming for 3 years, which has provided me with skills and knowledge in this field.
         </p>
 
         <h4 class="text-xl font-semibold text-white mb-3">Motivation and Goals</h4>
@@ -45,17 +45,17 @@
 
         <h4 class="text-xl font-semibold text-white mb-3">Strengths and Weaknesses</h4>
         <p class="text-gray-400 leading-relaxed mb-6">
-          My biggest strengths are my ability to understand and write code, as well as my quick learning ability. Most of my knowledge and skills were acquired independently before I began formal studies. However, I still have room to grow in areas like creating animations and working with PHP.
+          My biggest strengths are my ability to understand and write code, as well as my quick learning ability. Most of my knowledge and skills were acquired at school. However, I still have room to grow in areas like creating animations and working with PHP.
         </p>
 
         <h4 class="text-xl font-semibold text-white mb-3">Hobbies and Free Time</h4>
         <p class="text-gray-400 leading-relaxed mb-6">
-          In my free time, I enjoy engaging in active and creative hobbies. I play computer games like Rust, DayZ, Squad, Minecraft, FiveM, RDR2, and GTA5. I also enjoy spending time outdoors, playing airsoft, and cycling. These activities help me maintain a balance between work and leisure.
+          In my free time, I enjoy engaging in active and creative hobbies. I play computer games like DayZ, Minecraft, FiveM, RDR2, and GTA5. I also enjoy spending time outdoors, like playing basketball. These activities help me maintain a balance between work and leisure.
         </p>
 
         <h4 class="text-xl font-semibold text-white mb-3">Studies and Professional Development</h4>
         <p class="text-gray-400 leading-relaxed mb-6">
-          I am currently studying software development in vocational school, which complements my existing knowledge. I encounter code daily, both at school and at home, as programming is my greatest passion and a lifestyle.
+          I am currently studying software development in vocational school, which complements my existing knowledge. I encounter code quite often, both at school and at home, as programming comes up time to time.
         </p>
 
         <h4 class="text-xl font-semibold text-white mb-3">Collaboration and Creativity</h4>
@@ -98,14 +98,14 @@
         <div class="mt-10">
           <h3 class="text-4xl font-bold text-white mb-4">My projects</h3>
           <p class="text-gray-400 leading-relaxed mb-6">
-            <strong>Situation:</strong> Participated in several projects including the Spider-Man 2023 project, Barcode project, and Måneskin project. My tasks primarily involved design, documentation, and guidance. These were team-based projects aimed at creating functional and visually appealing websites.
+            <strong>Situation:</strong> Participated in several projects including the The Dark Knight 2023 project, Barcode project, and Måneskin project. My tasks primarily involved design, documentation, and guidance. These were team-based projects aimed at creating functional and visually appealing websites.
           </p>
           <p class="text-gray-400 leading-relaxed mb-6">
             <strong>Task:</strong> My roles varied:
             <ul class="list-disc text-left text-gray-400 p-6">
-              <li><em>Spider-Man project:</em> Responsible for creating README.md, using Figma for designs and prototypes, and coordinating workflows.</li>
-              <li><em>Barcode project:</em> Documented the workflow and contributed to both back-end and design.</li>
-              <li><em>Måneskin project:</em> Contributed to CSS animations and designs in Figma.</li>
+              <li><em>The Dark Knight project:</em> Made the figma and prototype, found the icons and info as well as making the readme.</li>
+              <li><em>Barcode project:</em> Documented most of the workflow, contributed to both back-end and design.</li>
+              <li><em>Måneskin project:</em> Made the design in Figma.</li>
             </ul>
           </p>
           <p class="text-gray-400 leading-relaxed mb-6">
@@ -122,7 +122,7 @@
             <strong>Result:</strong>
             <ul class="list-disc text-left text-gray-400 p-6">
               <li>All projects were submitted on time and met their objectives.</li>
-              <li>In the Spider-Man project, we delivered a functional website with desktop and mobile views. The README.md was well-received.</li>
+              <li>In The Dark Knight project, we delivered a functional website with desktop and mobile views. The README.md was well-received.</li>
               <li>The Barcode project improved technical management and usability.</li>
               <li>The Måneskin project resulted in a functional band website with animations showcasing creativity and a unified style.</li>
             </ul>
@@ -131,7 +131,7 @@
             <strong>Reflection:</strong>
             <ul class="list-disc text-left text-gray-400 p-6">
               <li><strong>Lessons learned:</strong> Gained an appreciation for teamwork and effective communication. Improved skills in Figma, speed testing, and Zone server usage, along with enhanced CSS and GitHub knowledge.</li>
-              <li><strong>Areas for improvement:</strong> Although satisfied with my roles, I aim to deepen my front-end programming skills (HTML and CSS).</li>
+              <li><strong>Areas for improvement:</strong> Although satisfied with my roles, I aim to deepen my back-end programming skills (php etc).</li>
               <li><strong>Future plans:</strong> In upcoming projects, I plan to focus more on coding and enhancing UI/UX designs. Additionally, I aim to develop mentoring skills to support team members effectively.</li>
             </ul>
           </p>
